@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/brunobertolini/brunobertolini/master/assets/linkedin.svg" width="21px" alt=" LinkedIn" align="left" style="max-width: 100%;">
 </a>
 
-Olá, sou o Misael e estou atualmente estudando Back End em JAVA.
+e estou atualmente estudando Back End em JAVA.
 Faço Faculdade de Sistemas de Informação na Universidade Federal de Mato Grosso do Sul
 e faço curso de TI na Alura. Atualmente estou procurando oportunidade de me ingressar
 no mercado de trabalho em back end, sempre buscando aprimorar meus conhecimentos.

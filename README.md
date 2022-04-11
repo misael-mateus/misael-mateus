@@ -16,7 +16,7 @@ Minha Stack atual:
 <a href="https://www.linkedin.com/in/misael-mateus-oliveira-dos-santos-9217b1163/" rel="nofollow">
   <img src="https://cdn-bdkok.nitrocdn.com/zASfOZhMHRaGYpKaSOphFIhUcxxDXZOx/assets/static/optimized/rev-ae4e470/wp-content/uploads/2021/08/com031.jpg" width="21px" alt=" MySQL" align="left" style="max-width: 100%;">
 </a>
-<a href="https://www.linkedin.com/in/misael-mateus-oliveira-dos-santos-9217b1163/" rel="nofollow">
+<a href="https://www.linkedin.com/in/misael-mateus/" rel="nofollow">
   <img src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png" width="21px" alt=" Spring Boot" align="left" style="max-width: 100%;">
 </a>
 <a href="https://www.linkedin.com/in/misael-mateus-oliveira-dos-santos-9217b1163/" rel="nofollow">

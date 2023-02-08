@@ -11,7 +11,7 @@ no mercado de trabalho em back-end, sempre buscando aprimorar meus conhecimentos
 Minha Stack atual:
 <br>
 <a href="https://www.linkedin.com/in/misael-mateus/" rel="nofollow">
-  <img src="https://raw.githubusercontent.com/gabizinha12/gabizinha12/master/assets/java.png" width="21px" alt=" Java" align="left" style="max-width: 100%;">
+  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="21px" alt=" Java" align="left" style="max-width: 100%;">
 </a>
 <a href="https://www.linkedin.com/in/misael-mateus/" rel="nofollow">
   <img src="https://cdn-bdkok.nitrocdn.com/zASfOZhMHRaGYpKaSOphFIhUcxxDXZOx/assets/static/optimized/rev-ae4e470/wp-content/uploads/2021/08/com031.jpg" width="21px" alt=" MySQL" align="left" style="max-width: 100%;">

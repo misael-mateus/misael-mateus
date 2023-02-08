@@ -3,10 +3,17 @@
   <img src="https://raw.githubusercontent.com/brunobertolini/brunobertolini/master/assets/linkedin.svg" width="21px" alt=" LinkedIn" align="left" style="max-width: 100%;">
 </a>
 
-Estou atualmente programando no Back-end em Java + Spring.
-Faço Faculdade de Sistemas de Informação na Universidade Federal de Mato Grosso do Sul
-e faço curso de TI na Alura. Atualmente estou procurando oportunidade de me ingressar
-no mercado de trabalho em back-end, sempre buscando aprimorar meus conhecimentos.
+Boas-Vindas
+
+Seja bem-vindo ao meu repositório Github!
+
+Meu nome é Misael Mateus, tenho 25 anos e sou um programador back-end entusiasta de tecnologia. Tenho ampla experiência em diversas linguagens de programação e ferramentas. Estou sempre em busca de aprender e manter-me atualizado sobre as últimas tendências e tecnologias no mercado.
+
+Minhas habilidades atuais incluem bancos relacionais, Java, Spring Boot, Microsservices, AWS e Angular. Além disso, sou capaz de fornecer soluções escaláveis e eficientes para atender às necessidades de negócios. Como profissional, sou dedicado, colaborativo e sempre disposto a aprender e trabalhar em equipe para alcançarmos nossos objetivos comuns.
+
+Aqui você encontrará projetos e codebases que desenvolvi, que têm sido úteis para muitos outros desenvolvedores. Estou sempre aberto para discussões e críticas construtivas para ajudar a melhorar meu trabalho.
+
+Espero que você desfrute do que estou oferecendo aqui.
 
 Minha Stack atual:
 <br>

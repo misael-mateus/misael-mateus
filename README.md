@@ -27,6 +27,5 @@ Minha Stack atual:
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="21px" alt=" Javascript" align="left" style="max-width: 100%;">
 </a>
      <a href="https://www.linkedin.com/in/misael-mateus/" rel="nofollow">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="21px" alt=" AWS" align="left" style="max-width: 100%;">
+  <img src="https://t4.ftcdn.net/jpg/05/57/67/23/240_F_557672362_kyxGCVD5m4iYaYitsBROR8RU5BA7eabX.jpg" width="21px" alt=" AWS" align="left" style="max-width: 100%;">
 </a>
-	https://t4.ftcdn.net/jpg/05/57/67/23/240_F_557672362_kyxGCVD5m4iYaYitsBROR8RU5BA7eabX.jpg
